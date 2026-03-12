@@ -1,0 +1,134 @@
+List of Components
+________________________________________
+A. Input
+(Devices that detect physical conditions or user actions)
+A1. Environmental Sensors
+Temperature & Climate
+•	Digital temperature sensor module (Air)
+•	Waterproofed temperature sensor module
+•	Temperature and humidity sensor module
+•	Temperature sensor module
+Moisture / Liquid Detection
+•	Soil moisture module
+•	Water level module
+________________________________________
+A2. Distance & Object Detection
+Proximity / Distance
+•	Ultrasonic module
+•	Obstacle infrared sensor
+Light / Optical Detection
+•	Photoresistor module
+•	Optical breaking module
+•	Photoelectric switch
+Laser Detection
+•	Laser head sensor module
+________________________________________
+A3. Motion & Orientation Sensors
+Movement / Vibration
+•	Gyro module
+•	Vibration switch module
+Position / Rotation
+•	Rotary encoder module
+•	PS2 Joystick game controller module
+Tilt / Orientation
+•	Tilt switch module
+•	Mercury opening module
+________________________________________
+A4. Magnetic Field Sensors
+Hall Effect Sensors
+•	Linear magnetic Hall sensor
+•	Hall magnetic sensor module
+•	Analogy Holzer magnetic sensor
+Reed Switch Sensors
+•	Mini reed module
+•	Large reed module
+________________________________________
+A5. Sound & Impact Sensors
+Audio Detection
+•	Microphone sound sensor module
+Impact / Hit Detection
+•	Hit sensor module
+________________________________________
+A6. Biometric Sensors
+Human Vital Sensors
+•	Finger detect-heartbeat module
+________________________________________
+A7. Infrared Sensors
+IR Receiver
+•	Infrared sensor receiver module
+________________________________________
+A8. Signal Generation
+Sound Detection / Amplification
+•	Microphone sensitivity sensor module
+Touch Detection
+•	Metal touch sensor module
+Flame Detection
+•	Flame sensor module
+(Note: some of these could also be treated as inputs depending on the kit labeling.)
+________________________________________
+A9. Miscellaneous Input Sensors
+Specialized Modules
+•	Hunt sensor module
+•	Magic Light Cup module
+•	Key switch module
+________________________________________
+B. Output
+B1. Motion Actuators
+(Devices that convert electrical signals into mechanical movement)
+B1.1 Rotational Actuators
+•	Servo Motor Module
+Used for precise angle control (0–180° or 360°).
+•	Small DC Motor
+Used for continuous spinning applications like fans, wheels, or pumps.
+________________________________________
+B2. Switching / Control
+Electrical Switching
+•	5V relay module
+________________________________________
+(Modules that control external devices or generate signals)
+B3. Communication Output
+Infrared Transmission
+•	Infrared emission sensor module
+________________________________________
+________________________________________
+C. Feedback
+(Modules that provide visual or audible response to the user)
+C1. Audio Feedback
+Buzzers
+•	Active buzzer module
+•	Passive buzzer module
+________________________________________
+C2. Visual Feedback
+Basic LEDs
+•	Bicolor LED common cathode module
+•	Two-color LED module
+RGB Lighting
+•	3-color LED module
+•	RGB LED SMD module
+Self-Operating LED
+•	Automatically flashing LED module
+________________________________________
+D. Power Supply
+(Modules that provide or regulate electrical power)
+D1. Power Distribution
+Breadboard Supply
+•	Breadboard power module
+________________________________________
+D2. Voltage Regulation
+DC Converter
+•	MP1584EN buck module
+________________________________________
+E. Miscellaneous
+(Modules providing system support functions rather than sensing or actuation)
+E1. Timekeeping
+Clock Modules
+•	DS1302 clock module
+________________________________________
+E2. Data Storage
+Memory Modules
+•	SD card reader module
+________________________________________
+E3. Interface / Utility Modules
+General Utility
+•	Magic Light Cup modules (if used for demonstration)
+________________________________________
